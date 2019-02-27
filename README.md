@@ -17,4 +17,4 @@
 
 ## 代码详情可点击以下链接
 
-> https://www.jianshu.com/p/51c4681f7f94
+> https://github.com/cammingcai/MvpDemo
